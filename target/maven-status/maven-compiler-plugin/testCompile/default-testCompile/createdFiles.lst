@@ -1,0 +1,5 @@
+steps\ReadJsonStepDefinitions.class
+steps\RandomDataStepDefinitions.class
+principal\RunTests.class
+steps\ReadExcelStepDefinitions.class
+utilities\Hooks.class

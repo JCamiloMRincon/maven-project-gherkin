@@ -1,0 +1,19 @@
+09:21:40.267 INFO  AUTOMATION - Executed at the beginning of everything...
+09:21:40.571 INFO  AUTOMATION - Executed at the beginning of each scenario...
+09:21:40.679 INFO  AUTOMATION - Executed at the end of each scenario, the result is: PASSED
+09:21:40.747 INFO  AUTOMATION - Executed at the beginning of each scenario...
+09:21:40.749 DEBUG AUTOMATION - Getting the products list from Excel
+09:21:41.101 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:21:41.374 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:21:42.461 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+09:21:42.503 INFO  AUTOMATION - Executed at the end of each scenario, the result is: PASSED
+09:21:42.530 INFO  AUTOMATION - Executed at the beginning of each scenario...
+09:21:42.530 DEBUG AUTOMATION - Getting the products list from Excel
+09:21:42.604 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:21:42.624 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:21:42.944 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+09:21:42.953 INFO  AUTOMATION - Executed at the end of each scenario, the result is: PASSED
+09:21:43.001 INFO  AUTOMATION - Executed at the beginning of each scenario...
+09:21:43.006 DEBUG AUTOMATION - Reading the user
+09:21:43.538 INFO  AUTOMATION - Executed at the end of each scenario, the result is: PASSED
+09:21:43.542 INFO  AUTOMATION - Executed at the end of everything...
